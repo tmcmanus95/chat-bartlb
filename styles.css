@@ -2,7 +2,8 @@ body {
   font-family: avenir;
   margin: 0;
   padding: 0;
-  background-color: linen;
+  background-color: darkslategray;
+  color: white;
 }
 
 .container {
@@ -34,6 +35,7 @@ textarea {
   display: inline-block;
   border-radius: 5px;
   padding: 5px;
+  color: black;
 }
 
 h4,
@@ -68,7 +70,6 @@ button {
 #response-area {
   max-width: 100%;
   padding: 10px;
-  border: 1px solid #ddd;
   border-radius: 5px;
   text-align: left;
   font-size: 30px;
