@@ -12,7 +12,9 @@ https://tmcmanus95.github.io/chat-bartlb/
 
 # Screenshots
 
-<img width="1347" alt="Screenshot 2023-11-30 at 6 15 01 PM" src="https://github.com/tmcmanus95/chat-bartlb/assets/122508345/054b94cb-8a91-4323-809b-dd15dca0917a">
+<img width="1290" alt="Screenshot 2023-11-30 at 6 38 26 PM" src="https://github.com/tmcmanus95/chat-bartlb/assets/122508345/9e71b95e-3279-46de-b874-fd1ee25f1f50">
+<img width="1314" alt="Screenshot 2023-11-30 at 6 38 51 PM" src="https://github.com/tmcmanus95/chat-bartlb/assets/122508345/ff5e93bf-672e-480e-8c8f-6ae013443fcd">
+<img width="1319" alt="Screenshot 2023-11-30 at 6 39 10 PM" src="https://github.com/tmcmanus95/chat-bartlb/assets/122508345/f67b0fe5-91bb-43de-9e6b-4d6cc444e07b">
 
 # License
 
